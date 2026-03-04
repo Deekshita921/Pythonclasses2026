@@ -19,3 +19,12 @@
     Script mode vs interactive mode
     Jupyter notebook usage
     ASCII and Unicode characters
+## Day 4, Class03:
+    Comment Operator
+    Keywords and Identifiers
+    Line Continuation and statement seperator operators
+    02.Basics
+        Arithmetic Operations
+            +,-,*,/,%,//,**.e
+            divmod() function
+            compound operations
