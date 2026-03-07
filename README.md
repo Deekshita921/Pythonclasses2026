@@ -34,19 +34,22 @@
     working with complex numbers
     abs() function
     complex() function
-    operator precedence in arithmetic operations (PEMDAS)
-    Assignments:
+    operator presedence in arithmetic operations (PEMDAS)
+    ##Assignments:
         Fruit Store
         Grocery Store
-        Savings bank
-        Bank loan
-            Simple interest
-            Compound interest
-        Bin to Oct,hex and oct to bin,hex vice verse
-        Feet to cms conversion
+        Savings Bank
+        Bank Loan
+            -Simple Interest
+            -Compound Interest
+        bin to oct,hex & oct to bin,hex & vice verse conversions
+        feet to cms conversion
 ## Day 6, Class05:
     String Operations
-        Usage of single, double and triple quotes
+        usage of single, double & triple quotes
         len() function
-        Indexing and Slicing Strings
+        indexing & Slicing strings
 ## Day 7, Class06:
+    More deeper about slicing strings (Forward & Backward Slicing)
+## Day 8, Class07:
+    String Attributes
