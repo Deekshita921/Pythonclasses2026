@@ -28,3 +28,29 @@
             +,-,*,/,%,//,**.e
             divmod() function
             compound operations
+## Day 5, Class04:
+    Practical Problem Solving
+    Data type conversions
+    working with complex numbers
+    abs() function
+    complex() function
+    operator presedence in arithmetic operations (PEMDAS)
+
+    ##Assignments:
+        Fruit Store
+        Grocery Store
+        Savings Bank
+        Bank Loan
+            -Simple Interest
+            -Compound Interest
+        bin to oct,hex & oct to bin,hex & vice verse conversions
+        feet to cms conversion
+## Day 6, Class05:
+    String Operations
+        usage of single, double & triple quotes
+        len() function
+        indexing & Slicing strings
+## Day 7, Class06:
+    More deeper about slicing strings (Forward & Backward Slicing)
+## Day 8, Class07:
+    String Attributes
