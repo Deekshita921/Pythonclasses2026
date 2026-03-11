@@ -35,7 +35,6 @@
     abs() function
     complex() function
     operator presedence in arithmetic operations (PEMDAS)
-
     ##Assignments:
         Fruit Store
         Grocery Store
