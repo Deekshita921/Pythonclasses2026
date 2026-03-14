@@ -53,3 +53,13 @@
     More deeper about slicing strings (Forward & Backward Slicing)
 ## Day 8, Class07:
     String Attributes
+## Day 9, Class08:
+    more deeper into string attributes
+    String formatting: old & new, f-strings
+    Ascii & Unicode strings
+    Assignments:
+        -replace() in reverse direction. From right to left
+        -Enhance the previous assignment grocery store by generating a final bill like supermarket bill
+        -Convert float to int, string ->using new style formatting
+        -Caesar Cipher program
+## Day 10, Class09:
