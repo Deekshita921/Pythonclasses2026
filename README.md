@@ -63,3 +63,12 @@
         -Convert float to int, string ->using new style formatting
         -Caesar Cipher program
 ## Day 10, Class09:
+    bytes() strings & bytearray()
+    usage of help
+    usage of pydoc
+    Language Components
+        -Relational Operations
+        -Logical Operations
+## Day 11, Class10:
+    Contiuation of Language Components:
+    
